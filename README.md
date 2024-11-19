@@ -1,16 +1,17 @@
-## Hi there 👋
+Aquí tienes una versión mejorada y más honesta de tu presentación en el README:
 
-<!--
-**JesusMaVe/JesusMaVe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Hola, soy Jesús desde México
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un entusiasta del desarrollo web y de software, en constante aprendizaje para mejorar mis habilidades y llevar mis ideas a la realidad. Actualmente, me dedico a:
+
+- 📚 Aprender tecnologías de desarrollo web y software.
+- 💻 Crear proyectos personales y practicar con ejemplos que me ayuden a crecer como desarrollador.
+- 🤝 Colaborar en proyectos pequeños y participar en comunidades de aprendizaje.
+
+Mi enfoque principal está en desarrollar páginas web y software, aunque todavía me encuentro en la etapa de aprendizaje y perfeccionamiento. Si estás interesado en colaborar, compartir ideas o simplemente hablar sobre tecnología, ¡no dudes en contactarme!
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusMaVe)](https://github.com/anuraghazra/github-readme-stats)
