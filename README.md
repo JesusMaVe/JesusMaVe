@@ -1,7 +1,3 @@
-Aquí tienes una versión mejorada y más honesta de tu presentación en el README:
-
----
-
 ### 👋 Hola, soy Jesús desde México
 
 Soy un entusiasta del desarrollo web y de software, en constante aprendizaje para mejorar mis habilidades y llevar mis ideas a la realidad. Actualmente, me dedico a:
